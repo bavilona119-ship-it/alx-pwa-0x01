@@ -1,0 +1,19 @@
+{
+  "name": "alx-movie-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@ducanh2912/next-pwa": "^10.2.9",
+    "next": "14.0.0",         // May vary based on your project
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.94.0"
+  }
+}
